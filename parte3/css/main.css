@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+div {
+	height: 200px;
+	width:200px;
+}
+.redbox {
+	background-color: #ee3e64;
+	position: relative;
+	top:0;
+	bottom:0;
+	left: 0;
+	right: 0;
+}
+.bluebox {
+	background-color: #44accf;
+	position: relative;
+	top:0;
+	bottom:0;
+	left: 200px;
+	right: 0;
+}
+.greenbox {
+	background-color: #b7d84b;
+	position: relative;
+}
